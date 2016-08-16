@@ -1,1 +1,1 @@
-# mean-stack-.js-.io-
+# mean-stack-.js-.io
